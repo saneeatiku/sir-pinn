@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+run.log
+nohup.out
+results/cache_*.json
